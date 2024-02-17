@@ -1,1 +1,1 @@
-# test-go
+# gin-test
